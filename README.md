@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haidar Abugurain</h1>
 <h3 align="center">A Software Engineering Student at KFUPM, and a passionate full-stack web & mobile applications developer</h3>
 
-- 👯 I’m looking to collaborate on **open source projects**
+- I’m looking to collaborate on **open source projects**
 
-- 📫 Contact me at **Haidar.Abugurain@gmail.com**
+- Contact me at **Haidar.Abugurain@gmail.com**
 
 
 
